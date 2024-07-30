@@ -1,0 +1,74 @@
+.alinhamentoesquerda {
+    text-align: left;
+}
+.alinhamentodireita {
+    text-align: right;
+}
+
+.alinhamentocentro{
+    text-align: center;
+}
+
+#tabelaid {
+ font-weight: bold;
+}
+
+.disciplinas{
+    text-decoration: underline;
+}
+
+body{
+    background-color: gray;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBGLoANowEc2D804DGQPDk-zVfa5cG1ChY5A&s");
+    background-blend-mode:color-dodge;
+    background-size:1000%;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    border: 2px solid black;
+    border-color: bisque;
+    border-style: groove;
+   margin: auto;
+}
+h2{
+    border: 2px solid black;
+    border-color: rgb(98, 55, 2);
+    border-style: groove;
+    border-width: 1px;
+    margin: auto;
+}
+
+h3{
+    border: 2px solid black;
+    border-color: rgb(230, 141, 33);
+    border-style: groove;
+    margin: auto;
+}
+
+ul.inside{
+    list-style-position: square;
+}
+
+ol.outside{
+    list-style-position: outside;
+}
+
+ul.square{
+    list-style-type: square;
+}
+
+table.um{
+    table-layout: auto;
+}
+table.dois{
+    border-collapse: collapse;
+    }
+table.tres{
+    border-collapse: separate;
+    border-spacing: 20px 60px;
+    caption-side: left;
+    }
