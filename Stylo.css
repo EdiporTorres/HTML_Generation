@@ -29,6 +29,7 @@ p{
 }
 
 h1{
+    
     border: 2px solid black;
     border-color: bisque;
     border-style: groove;
@@ -47,6 +48,7 @@ h3{
     border-color: rgb(230, 141, 33);
     border-style: groove;
     margin: auto;
+    
 }
 
 ul.inside{
